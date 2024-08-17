@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend with NodeJS and MongoDB**
 
-- 🔭 I’m currently working on **chat app using socket io**
+- 🔭 I’m currently learning DSA using C++
 
 - 👯 I’m looking to collaborate on: **Backend and FullStack Projects**
 
