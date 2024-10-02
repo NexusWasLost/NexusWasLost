@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
 <h3 align="center">An aspiring backend and software developer from India</h3>
 
-- 🌱 I’m currently learning **Backend with NodeJS and MongoDB**
+- 🌱 Learning **Backend development with NodeJS and MongoDB**
 
-- 🔭 I’m currently learning DSA using C++
+- 🔭 I’m currently learning **DSA using C++**
 
 - 👯 I’m looking to collaborate on: **Backend and FullStack Projects**
 
