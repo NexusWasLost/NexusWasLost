@@ -27,6 +27,6 @@
 
 <h3 align="left">Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus949&show_icons=true&locale=en&layout=compact&cache_seconds=5000" alt="nexus949" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus949&show_icons=true&locale=en&layout=donut-vertical&cache_seconds=5000" alt="nexus949" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&show_icons=true&locale=en" alt="nexus949" /></p>
