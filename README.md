@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aritra</h1>
-<h3 align="center">An aspiring backend and software developer from India</h3>
+<h3 align="center">Backend and Software Engineer</h3>
 
-- 🌱 Learning **Backend development with NodeJS and MongoDB**
+- 🌱 Backend Engineer using **Node.js, Express.js and MongoDB.**
 
-- 🔭 I’m currently learning **DSA using C++**
+- 🔭 I’m currently trying out **Manual Testing using Trello**
 
 - 👯 I’m looking to collaborate on: **Backend and FullStack Projects**
 
-- 💬 Ask me about **JavaScript, NodeJS, MongoDB, C++, Software Dev Topics**
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, C++, Software Dev Topics**
 
 - ⚡ Fun fact **I love Watching Anime and playing Games**
 
@@ -19,14 +19,14 @@
 
 <h3 align="left">Languages and Tools :</h3>
 
-![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%232f2f2f)   ![Static Badge](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E)   ![Static Badge](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=%23000000)   ![Static Badge](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)   ![Static Badge](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
-   ![Static Badge](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%232f2f2f)   ![Static Badge](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=%23000000&color=white)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%232f2f2f)   ![Static Badge](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235FA04E)   ![Static Badge](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=%23000000)   ![Static Badge](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm)
+   ![Static Badge](https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)   ![Static Badge](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)   ![Static Badge](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=%232f2f2f)   ![Static Badge](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=%23000000&color=white)   ![Static Badge](https://img.shields.io/badge/HandleBars-%23000000?style=for-the-badge&logo=handlebarsdotjs)   ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF)   ![Static Badge](https://img.shields.io/badge/Socket.io-%23010101?style=for-the-badge&logo=socketdotio)   ![Static Badge](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens)
    ![Static Badge](https://img.shields.io/badge/vercel-white?style=for-the-badge&logo=vercel&logoColor=white&color=%23000000)   ![Static Badge](https://img.shields.io/badge/c-white?style=for-the-badge&logo=c&logoColor=white&color=%23273543)
-   ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=white&color=%2300599C)   ![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)   ![Static Badge](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)   ![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)
+   ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=white&color=%2300599C)   ![Static Badge](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)   ![Static Badge](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&logoColor=white&color=%23FF6C37)   ![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED)   ![Static Badge](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello)
 
 
 <h3 align="left">Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus949&show_icons=true&locale=en&layout=donut-vertical&cache_seconds=5000" alt="nexus949" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nexus949&show_icons=true&locale=en&layout=compact&cache_seconds=5000" alt="nexus949" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&show_icons=true&locale=en" alt="nexus949" /></p>
