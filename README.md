@@ -9,10 +9,8 @@ I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient
 
 ### 🧷 Github Stats :
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true" /> &nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=350" />
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=350)
+![GitHub Streak](https://streak-stats.demolab.com?user=nexus949&theme=gotham)
 
 ---
 
