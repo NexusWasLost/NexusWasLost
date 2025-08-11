@@ -12,8 +12,9 @@ I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient
 <a href="https://github.com/nexus949/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
 </a> &nbsp;&nbsp; <a href="https://github.com/nexus949/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
 </a>
+<br>
 
 <a href="https://github.com/nexus949/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false" />
