@@ -1,17 +1,24 @@
 # Hey There ! 👋
 
-I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient code, crafting solutions and exploring new technologies. I focus primarily on backend systems and curious towards systems and machines. I'm always up for thoughtful collaboration and building things that make a difference. 
+I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient code, crafting solutions and exploring new technologies. I focus primarily on backend systems and curious towards systems and machines. I'm always up for thoughtful collaboration and building things that make a difference.
+<br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,c,cpp,mongo,sqlite,git,linux,docker,postman,obsidian&perline=15)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,c,cpp,mongo,sqlite,git,linux,docker,postman,obsidian&perline=15)](https://skillicons.dev)
 
 ---
+
 ### 🧷 Github Stats :
 
-![nexus949's Stats](https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+<a href="https://github.com/nexus949/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
+</a> &nbsp;&nbsp; <a href="https://github.com/nexus949/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
+</a>
 
-![nexus949's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false)
+<a href="https://github.com/nexus949/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false" />
+</a>
 
-![nexus949's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 ---
 
 ### 🍞 Connect With Me :
