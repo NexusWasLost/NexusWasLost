@@ -1,5 +1,4 @@
 # Hey There ! 👋
----
 
 I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient code, crafting solutions and exploring new technologies. I focus primarily on backend systems and curious towards systems and machines. I'm always up for thoughtful collaboration and building things that make a difference. 
 
