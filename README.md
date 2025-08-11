@@ -9,14 +9,14 @@ I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient
 
 ### 🧷 Github Stats :
 
-<a href="https://github.com/nexus949/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nexus949&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-</a> &nbsp;&nbsp; <a href="https://github.com/nexus949/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=320" />
+</a> &nbsp;&nbsp; <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=350">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus949&theme=gotham&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=350" />
 </a>
 <br><br>
 
-<a href="https://github.com/nexus949/github-readme-stats">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nexus949&theme=gotham&hide_border=false" />
 </a>
 
