@@ -1,4 +1,4 @@
-# Hey There ! 👋
+# Hii There ! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30">
 
 I am Aritra (he/him) - A Backend Engineer.
 
