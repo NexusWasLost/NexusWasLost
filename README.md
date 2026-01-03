@@ -5,4 +5,4 @@ I am Aritra (he/him) - A Backend Engineer who enjoys writing clean and efficient
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,c,cpp,mongo,sqlite,git,linux,docker,postman,obsidian&perline=15)](https://skillicons.dev)
 
-[**Linkedin**](https://www.linkedin.com/in/aritrakarmakar09/) ● [**Discord**](https://discord.gg/jJX4NXUkfz)
+### &nbsp;&nbsp; [**Linkedin**](https://www.linkedin.com/in/aritrakarmakar09/) ● [**Discord**](https://discord.gg/jJX4NXUkfz)
