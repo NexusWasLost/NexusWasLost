@@ -8,6 +8,6 @@ Always up for thoughtful collaboration.<br>
 ...and I love gaming and watching anime !
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,c,cpp,mongo,sqlite,git,linux,docker,postman,obsidian&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,c,cpp,mongo,postgres,git,linux,docker,postman,obsidian&perline=15)](https://skillicons.dev)
 
-[**Linkedin**](https://www.linkedin.com/in/aritrakarmakar09/) ● [**Discord**](https://discord.gg/jJX4NXUkfz)
+[**Linkedin**](https://www.linkedin.com/in/aritra200) ● [**Discord**](https://discord.gg/jJX4NXUkfz)
